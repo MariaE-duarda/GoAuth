@@ -22,7 +22,7 @@
 <br><br>
 
 <div align="center">
-  <img height="500" src="https://github.com/MariaE-duarda/fireGoogle/blob/main/public/screen%20Logado.png?raw=true" />
+  <img height="400" src="https://github.com/MariaE-duarda/fireGoogle/blob/main/public/screen%20Logado.png?raw=true" />
 </div>
 
 <p align="center">done with 💖 per:</p>
